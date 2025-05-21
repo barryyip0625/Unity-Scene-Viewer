@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEditor.SceneManagement;
 
-namespace EditorTools
+namespace BYUtils.EditorTools
 {
     public class SceneViewer : EditorWindow
     {
