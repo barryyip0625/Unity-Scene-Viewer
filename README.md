@@ -3,6 +3,9 @@
 A simple Unity Editor extension that helps you quickly browse, locate, and open scenes in your project.  
 This tool is especially useful for projects with many scenes, making scene management more efficient.
 
+![Screenshot 2025-05-21 154055](https://github.com/user-attachments/assets/2a20adef-8cfc-47fd-b6ea-99c509c973df)
+
+
 ## Features
 
 - **Scene List Viewer:** Lists all scenes under the `Assets/` folder, excluding package scenes.
