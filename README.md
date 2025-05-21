@@ -28,11 +28,10 @@ This tool is especially useful for projects with many scenes, making scene manag
 3. Click a scene name to open it (single mode), or click "Add" to open it additively.
 4. Use the "Refresh Scene List" button if you add or remove scenes while the window is open.
 
-## Project Structure
-
-- `Editor/SceneViewer/SceneViewer.cs` — Main editor window script.
-
 ## License
 
-This project is licensed under the MIT License.  
-See the [LICENSE](Editor/SceneViewer/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Contributing
+
+Issues and pull requests are welcome. Your contributions will help make this tool better!
