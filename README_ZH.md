@@ -20,12 +20,12 @@
 
 1. 將 `Editor/SceneViewer/SceneViewer.cs` 檔案（及資料夾）複製到你的 Unity 專案的 `Assets/Editor/` 目錄下。
 2. 開啟 Unity。該工具會出現在選單：  
-   `工具 > BY Utils > 場景瀏覽器`
+   `Tools > BY Utils > Scene Viewer`
 
 ## 使用說明
 
 1. 從選單開啟場景瀏覽器視窗：  
-   `工具 > BY Utils > 場景瀏覽器`
+   `Tools > BY Utils > Scene Viewer`
 2. 視窗會顯示專案中找到的所有場景。
 3. 點擊場景名稱可單一模式開啟，或點擊「Add」以加成方式開啟。
 4. 若在視窗開啟期間有新增或移除場景，請使用「刷新場景清單」按鈕。
