@@ -1,6 +1,6 @@
 # Unity Scene Viewer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Readme_ZH](https://img.shields.io/badge/UnitySceneViewer-%E4%B8%AD%E6%96%87%E6%96%87%E6%AA%94-red)](https://github.com/barryyip0625/Unity-Scene-Viewer/blob/main/README_ZH.md)
 
 A simple Unity Editor extension that helps you quickly browse, locate, and open scenes in your project.  
 This tool is especially useful for projects with many scenes, making scene management more efficient.
